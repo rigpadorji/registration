@@ -1,0 +1,42 @@
+.about{
+	background-color:#FF5733;
+	width: 100%;
+	height: 10px;
+	text-align:left;
+	padding:40px;
+	border: 1px solid #4CAF50;
+	font-size: 23px;
+	font-weight: 900;
+}
+a{
+	color:blue;
+}
+
+body{
+	background-color:#EEEDE8;
+}
+.float-container{
+	padding:20px;
+	display:flex;
+	width: 130%;
+	
+}
+.float-child1 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}  
+.float-child12 {
+    width: 50%;
+    float: right;
+    padding: 20px;
+    border: 2px solid red;
+}  
+
+ img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 550px;
+  height:260px;
+}

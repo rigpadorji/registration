@@ -1,0 +1,33 @@
+
+h2{
+	text-align:center;
+}
+.tablecontainer{
+	display:flex;
+	width:100%;
+}
+
+.table{
+	width:50%;
+	border: 1px solid black;
+	background-color:brown;
+}
+
+.imageSize{
+	
+	width:250px;
+	height:250px;
+	border-radius:300px;
+}
+.table1{
+	width:50%;
+	border: 1px solid black;
+	background-color:pink;
+}
+
+.imageSize1{
+	
+	width:250px;
+	height:250px;
+	border-radius:300px;
+}

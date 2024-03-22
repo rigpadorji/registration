@@ -1,0 +1,53 @@
+body{
+padding-top:30px;
+font-size: 20px;
+color:blue;
+text-align:center;	
+	
+}
+
+
+.driver1{
+	width:800px;
+	display:flex;
+	color:black;
+	
+}
+.driver1Parrent{
+	width:50%;
+	float:left;
+}
+.driver1Child{
+	width:50%;
+	float:right;
+}
+
+.driver2{
+	width:800px;
+	display:flex;
+	color:black;
+	
+}
+.driver2Parrent{
+	width:50%;
+	float:left;
+}
+.driver2Child{
+	width:50%;
+	float:right;
+}
+
+.driver3{
+	width:800px;
+	display:flex;
+	color:black;
+	
+}
+.driver3Parrent{
+	width:50%;
+	float:left;
+}
+.driver3Child{
+	width:50%;
+	float:right;
+}

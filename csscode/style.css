@@ -1,0 +1,76 @@
+
+body{
+	
+	padding: 50px;
+}
+
+
+.main{
+	margin:auto;
+	width:500px;
+	
+}
+
+form {
+  background-color:gray;
+  width:100%;
+  display:flex;
+  
+}
+
+
+
+table {
+	width: 20%;
+	border:1pxsolidblack;
+	
+}
+
+table p{
+	text-align:center;
+	font-size:20px;
+}
+labe{
+	width:140px;
+	display:inline-block;
+	margin:0.2cm;
+}
+input {
+  padding: 3px;
+  font-size: 14px;
+  font-weight: 600;
+  width: 300px;
+  color: #1c87c9;
+}
+
+
+select{
+  padding: 0 1em 0 0;
+  margin: 0;
+  width: 100%;
+  font-family: inherit;
+  font-size: 30px;
+  cursor: inherit;
+  line-height: inherit;
+  color: #1c87c9;
+}
+
+  input[type=radio] {
+  margin:auto;
+  text-align:center;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+}
+ 
+      
+   input[type=submit] {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size:20px;
+}
